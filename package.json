@@ -1,0 +1,26 @@
+{
+  "name": "ibm-watson-chatbot",
+  "version": "1.0.0",
+  "description": "Simple Web App ChatBot using WATSON DISCUSSION SERVICE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yberrada/IBM-WATSON-CHATBOT.git"
+  },
+  "keywords": [
+    "Watson",
+    "chatbot",
+    "IBM",
+    "Discussion",
+    "AI"
+  ],
+  "author": "Younes Berrada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yberrada/IBM-WATSON-CHATBOT/issues"
+  },
+  "homepage": "https://github.com/yberrada/IBM-WATSON-CHATBOT#readme"
+}

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <title>CHATBOT</title>
+  <link rel="stylesheet" href="/css/index.css"    type = "text/css">
+</head>
+<body>
+  <h1 id= 'head'>Welcome to CHATBOT</h1>
+    <div id='chat'>
+      <div id='border'>
+        <fieldset>
+          <form class="" action="/" method="post">
+            <input type="text" class="input" name="chat" placeholder="Try me! WATSON UP?">
+            <% if(val !== null){ %>
+              <p style="color:blue;">  <span>CHATBOT:</span> <%= val %></p>
+            <% } %>
+          </form>
+        </fieldset>
+      </div>
+   </div>
+<script src="index.js"></script>
+</body>
+</html>
